@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-nasini-oh-you-who-forgot-me/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Ya Nasini – Oh You Who Forgot Me](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
