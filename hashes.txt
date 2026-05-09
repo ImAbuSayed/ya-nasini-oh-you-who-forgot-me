@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Nasini – Oh You Who Forgot Me
+
+This log tracks the cryptographic history and versioning for the song **Ya Nasini – Oh You Who Forgot Me** (ya-nasini-oh-you-who-forgot-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:21:48.428858 | `v1` | `771af0648d9b195d0fe78d298534b738dc62b089f8bc3b2cedad171d0133d9d1` | `79d2e922fb655c7f61d7b0d98a6a2b0415d8d0e2d3db10d050390bb1ac8fcee1` | `2026-05-09_ya-nasini-oh-you-who-forgot-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
